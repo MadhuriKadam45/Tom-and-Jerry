@@ -1,0 +1,17 @@
+
+<div class="Triplet Trouble">
+  <div class="card">
+    <img
+      src="src/images/Tom & Jerry Photo/Triplet-Trouble-330x496.jpg"
+      class="card-img-top"
+      alt="..."
+    />
+    <div class="card-body">
+      <h1 class="card-title">Triplet Trouble</h1>
+      <p class="card-text">
+        Mammy Two-Shoes agrees to babysit three seemingly innocent kittens. But
+        while she is away buying cream, the trio of brats torment Tom and Jerry.
+      </p>
+    </div>
+  </div>
+</div>
